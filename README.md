@@ -2,7 +2,7 @@
 
 云班课作业互评（python3+selenium）
 
-github项目地址：https://github.com/xingjiahui/Yunbanke-auto
+github项目地址：https://github.com/319np666/Yunbanke-Auto
 
 # 项目介绍
 
