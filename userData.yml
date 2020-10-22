@@ -1,0 +1,6 @@
+path: D:\environment\chromedriver.exe  # 浏览器驱动位置
+user: 17812345678  # 手机号/邮箱
+pwd: test123  # 密码
+teacherName: 张**  # 课程对应的老师姓名
+subjectName: 大学物理  # 课程名称
+scoreSet: 10  # 评分值
